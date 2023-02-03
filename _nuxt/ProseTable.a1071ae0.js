@@ -1,0 +1,1 @@
+import{_ as t}from"./_plugin-vue_export-helper.c27b6911.js";import{N as _,O as a,R as o,a2 as s}from"./runtime-core.esm-bundler.60e7e71f.js";const r={},n={class:"table-wrapper"};function c(e,d){return _(),a("div",n,[o("table",null,[s(e.$slots,"default",{},void 0,!0)])])}const p=t(r,[["render",c],["__scopeId","data-v-f3ef5a96"]]);export{p as default};
